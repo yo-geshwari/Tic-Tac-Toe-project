@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: palevioletred;
+    text-align: center;
+    z-index: 0;
+}
+
+.outer{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes{
+    width: 410px;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.b{
+    height: 120px;
+    width: 120px;
+    border: none;
+    border-radius: 5%;
+    font-size: 50px;
+    color: rgb(51, 50, 50);
+    opacity: 70%;
+}
+
+.b:hover{
+    border: 10px solid white;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 5vh;
+    opacity: 80%;
+}
+
+.btn{
+    height: 45px;
+    width: 150px;
+    color: rgb(51, 50, 50);
+    margin-top: 40px;
+    margin-right: 80px;
+    margin-left: 80px;
+    font-size: 15px;
+    font-weight: 545;
+    opacity: 70%;
+    border: none;
+    border-radius: 5%;
+}
+
+.resetgame{
+    z-index: 3;
+    margin-top: -90px;
+}
+
+.winmsgbox{
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 100px;
+    margin-top: -350px;
+    background-color: rgb(236, 158, 184);
+}
+
+.winmsgbox p{
+    z-index: 3;
+}
+
+.hide{
+    visibility: hidden;
+}
