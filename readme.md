@@ -26,7 +26,7 @@ This is a simple **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaS
 
 ## 🚀 How to Run
 
-👉 [Play it here](https://your-username.github.io/tictactoe)
+👉 [Play it here](https://yo-geshwari.github.io/Tic-Tac-Toe-project/)
 
 **OR**
 
