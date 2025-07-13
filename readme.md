@@ -36,8 +36,8 @@ This is a simple **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaS
 
 ```bash
 # If using git
-git clone https://github.com/your-username/tictactoe.git
-cd tictactoe
+git clone https://github.com/yo-geshwari/Tic-Tac-Toe-project.git
+cd Tic-Tac-Toe-project
 open index.html
 ```
 ---
